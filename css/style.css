@@ -1,4 +1,5 @@
-
+.login{
+}
 .logo{
 
     
@@ -75,8 +76,21 @@
   display: block;
   margin-top: 15px;
 }
-
-* {
-  background-color: transparent;
-  color: black;
+.formbackground{
+  background-color: white;
+}
+ 
+.aboutus{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+.login{
+  color: white;
+  text-decoration: none;
+}
+.index1{
+  background-color: black;
+  color: white;
+  text-decoration: none;
 }
